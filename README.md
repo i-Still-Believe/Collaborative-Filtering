@@ -1,6 +1,6 @@
 # An Ensemble Based Approach to Collaborative Filtering
 
-Semester project for Computational Intelligence Lab by Xiyi Chen, Pengxi Liu, Jiasong Guo, Chuhao Feng. We ranked 3rd out of 16 teams on the private leaderboard for this [in-class Kaggle challange](https://www.kaggle.com/competitions/cil-collaborative-filtering-2022/leaderboard).
+Semester project for Computational Intelligence Lab by Jiasong Guo, Xiyi Chen, Pengxi Liu, Chuhao Feng. We ranked 3rd out of 16 teams on the private leaderboard for this [in-class Kaggle challange](https://www.kaggle.com/competitions/cil-collaborative-filtering-2022/leaderboard).
 
 ## Dependencies
 To install all required packages, call:
